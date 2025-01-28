@@ -1,4 +1,4 @@
-num1=100
+num1=600
 num2=100
 num3=num1+num2
 
